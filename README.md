@@ -118,6 +118,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 - **Harvard University** for providing the [CS50 course](https://cs50.harvard.edu).
 - **David J. Malan** for his excellent lectures and materials.
 
----
-
-Feel free to customize it further according to your preferences and specific details of your problem sets.
