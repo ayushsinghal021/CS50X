@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It took more time to sort reversed array than sort2.
+
+sort2 uses: Merge Sort
+
+How do you know?: It took the least time in all sorting.
+
+sort3 uses: Selection Sort
+
+How do you know?: It took the most time while sorting sorted text.
